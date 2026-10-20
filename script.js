@@ -15,8 +15,8 @@ document.addEventListener("DOMContentLoaded", () => {
       image: "images/chatgpt.jpg",
       imageAlt: "Chat GPT clone project",
       tags: ["React", "JS", "Node.js", "Express.js", "MySQL", "Gemini API"],
-      live: "#",
-      github: "#"
+      live: "https://chat-gpt-clone-klzo.vercel.app/",
+      github: "https://github.com/Hawi-net/ChatGPT-Clone"
     },
     {
       name: "Netflix clone",
